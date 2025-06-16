@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace "com.chavesgu.scan"
-    compileSdkVersion 29
+    compileSdkVersion 35
 
     defaultConfig {
         minSdkVersion 19
